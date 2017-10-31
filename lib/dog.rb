@@ -6,4 +6,5 @@ class Dog
   def name
     @this_dogsname
   end
+  
 end
